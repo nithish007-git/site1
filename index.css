@@ -1,0 +1,164 @@
+body{
+  margin:0;
+  text-align:center;
+  background-color:#EEEEEE;
+ 
+
+}
+a{
+  color: #1237dd;
+  margin: 15px;
+  text-decoration: none;
+}
+a:hover{
+  color: #e6dde6;
+}
+h1{
+  padding-top: 50px;
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento',serif;
+  font-size: 5.62rem;
+  color: #11999E;
+  line-height: 1;
+
+}
+p{
+  line-height: 2;
+}
+hr{
+  border : dotted;
+  border-bottom: none;
+  color: #11999E;
+  width :20px;
+  line height : 2rem;;
+}
+h2{
+  font-family: 'Fira Sans Condensed',serif;
+  font-size: 2.5rem;
+  color:#11999E;
+  font-weight: lighter;
+} 
+.top-container{
+    font : Fantasy;
+    background-color:#EEEEEE;
+    position: relative;
+    padding-top: 70px;
+    line-height: 1;
+    
+
+    
+    
+  }
+  .bottem-container{
+    
+    line-height: 1;
+  }
+
+
+  .bottom-cloud
+   {
+     position: absolute;
+     right:300px;
+     top:200px;
+   }
+  .top-cloud{
+    position:absolute;
+    top:20px;
+    left: 350px;
+
+  }
+  .skill-row{
+    padding-left: 450px;
+    text-align: left;
+    padding-bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right:30px;
+  }
+ .python{
+  width: 15%;
+  padding-left: 300px;
+  padding-bottom: 50px;
+  margin-right: 50px;
+  float: left;
+
+ }
+ .html{
+  width: 15%;
+  margin-right: 190px;
+  float: right;
+  
+
+  
+ }
+
+ .profile1{
+   margin-top: 7rem;
+   width: 30%;
+ }
+ .skill-row1{
+
+   margin-bottom: 7rem;
+   text-align: left;
+   padding-left: 70px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+ }
+ .img1{
+   align-items: center;
+
+ }
+ .skills{
+   margin-bottom: 45px;
+   padding: 50px;
+   margin: 0 auto 40px;
+ }
+ .contact-me{
+   page-break-before: always;
+   line-height: 2rem;
+ }
+ h3{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ p{
+   font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ .btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #e6dde6;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #523cfa;
+  background-image: -webkit-linear-gradient(top, #523cfa, #3498db);
+  background-image: -moz-linear-gradient(top, #523cfa, #3498db);
+  background-image: -ms-linear-gradient(top, #523cfa, #3498db);
+  background-image: -o-linear-gradient(top, #523cfa, #3498db);
+  background-image: linear-gradient(to bottom, #523cfa, #3498db);
+  text-decoration: none;
+}
+.last-container{
+  background-color: #4e6186;
+  padding: 50px 0 80px;
+  margin: 0;
+
+}
+.bottem-container{
+  padding-bottom: 75px;
+}
+.copy{
+  color: #EEEEEE;
+  font-size: 0.75rem;
+}
